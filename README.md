@@ -51,7 +51,7 @@ Node.js • TypeScript • AI APIs • Firebase
 My developer portfolio website.
 
 🔗
-https://kidu121.github.io/
+https://kidusyared-portfolio-gilt.vercel.app/
 
 ---
 
