@@ -39,12 +39,11 @@ React • TypeScript • Tailwind CSS • Firebase
 https://store-pilot-by-kidus.vercel.app/
 
 
-### 🤖 FinanceAI
+### 🤖 SMART FINANCE IMPORTER
 AI-powered Digital Loan Assistant.
 
 Tech:
 Node.js • TypeScript • AI APIs • Firebase
-
 
 ### 🌐 Personal Portfolio
 
