@@ -1,4 +1,4 @@
-# Hi, I'm Kidus Yared 👋
+# Hi, I'm Kidusyared Liku👋
 
 ### 👨‍💻 Frontend Developer | AI & FinTech Enthusiast
 
